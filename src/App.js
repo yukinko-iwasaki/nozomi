@@ -168,7 +168,7 @@ const App = () => {
             <h2 className="text-2xl font-bold text-pink-600 mb-4">Enter Password</h2>
             <input
               type="password"
-              placeholder="Paste your Gemini API key"
+              placeholder="Your Password here"
               value={apiKeyInput}
               onChange={e => setApiKeyInput(e.target.value)}
               className="border border-pink-300 rounded-lg px-3 py-2 text-base focus:outline-none focus:ring-2 focus:ring-pink-300 mb-4 w-full"

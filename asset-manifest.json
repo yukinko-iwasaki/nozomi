@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nozomi/static/css/main.e6c13ad2.css",
+    "main.js": "/nozomi/static/js/main.8377386a.js",
+    "static/js/453.4bedd2dd.chunk.js": "/nozomi/static/js/453.4bedd2dd.chunk.js",
+    "index.html": "/nozomi/index.html",
+    "main.e6c13ad2.css.map": "/nozomi/static/css/main.e6c13ad2.css.map",
+    "main.8377386a.js.map": "/nozomi/static/js/main.8377386a.js.map",
+    "453.4bedd2dd.chunk.js.map": "/nozomi/static/js/453.4bedd2dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8377386a.js"
+  ]
+}
